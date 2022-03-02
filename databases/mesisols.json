@@ -1,0 +1,4988 @@
+{
+    "_default": {
+        "1": {
+            "asset_id": 522078971,
+            "asset_name": "MesiSol #0",
+            "asset_unit": "MSOL0",
+            "asset_code": "0",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "2": {
+            "asset_id": 522079193,
+            "asset_name": "MesiSol #1",
+            "asset_unit": "MSOL1",
+            "asset_code": "1",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "3": {
+            "asset_id": 522081672,
+            "asset_name": "MesiSol #2",
+            "asset_unit": "MSOL2",
+            "asset_code": "2",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "4": {
+            "asset_id": 522081901,
+            "asset_name": "MesiSol #3",
+            "asset_unit": "MSOL3",
+            "asset_code": "3",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "5": {
+            "asset_id": 522082059,
+            "asset_name": "MesiSol #4",
+            "asset_unit": "MSOL4",
+            "asset_code": "4",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "6": {
+            "asset_id": 522082191,
+            "asset_name": "MesiSol #5",
+            "asset_unit": "MSOL5",
+            "asset_code": "5",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "7": {
+            "asset_id": 522082316,
+            "asset_name": "MesiSol #6",
+            "asset_unit": "MSOL6",
+            "asset_code": "6",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "8": {
+            "asset_id": 522082457,
+            "asset_name": "MesiSol #7",
+            "asset_unit": "MSOL7",
+            "asset_code": "7",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "9": {
+            "asset_id": 522082616,
+            "asset_name": "MesiSol #8",
+            "asset_unit": "MSOL8",
+            "asset_code": "8",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "10": {
+            "asset_id": 522082776,
+            "asset_name": "MesiSol #9",
+            "asset_unit": "MSOL9",
+            "asset_code": "9",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "11": {
+            "asset_id": 522082924,
+            "asset_name": "MesiSol #10",
+            "asset_unit": "MSOL10",
+            "asset_code": "10",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "12": {
+            "asset_id": 522083107,
+            "asset_name": "MesiSol #11",
+            "asset_unit": "MSOL11",
+            "asset_code": "11",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "13": {
+            "asset_id": 522083263,
+            "asset_name": "MesiSol #12",
+            "asset_unit": "MSOL12",
+            "asset_code": "12",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "14": {
+            "asset_id": 522083433,
+            "asset_name": "MesiSol #13",
+            "asset_unit": "MSOL13",
+            "asset_code": "13",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "15": {
+            "asset_id": 522083620,
+            "asset_name": "MesiSol #14",
+            "asset_unit": "MSOL14",
+            "asset_code": "14",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "16": {
+            "asset_id": 522083782,
+            "asset_name": "MesiSol #15",
+            "asset_unit": "MSOL15",
+            "asset_code": "15",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "17": {
+            "asset_id": 522083890,
+            "asset_name": "MesiSol #16",
+            "asset_unit": "MSOL16",
+            "asset_code": "16",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "18": {
+            "asset_id": 522084039,
+            "asset_name": "MesiSol #17",
+            "asset_unit": "MSOL17",
+            "asset_code": "17",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "19": {
+            "asset_id": 522084178,
+            "asset_name": "MesiSol #18",
+            "asset_unit": "MSOL18",
+            "asset_code": "18",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "20": {
+            "asset_id": 522084333,
+            "asset_name": "MesiSol #19",
+            "asset_unit": "MSOL19",
+            "asset_code": "19",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "21": {
+            "asset_id": 522084492,
+            "asset_name": "MesiSol #20",
+            "asset_unit": "MSOL20",
+            "asset_code": "20",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "22": {
+            "asset_id": 522084677,
+            "asset_name": "MesiSol #21",
+            "asset_unit": "MSOL21",
+            "asset_code": "21",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "23": {
+            "asset_id": 522084890,
+            "asset_name": "MesiSol #22",
+            "asset_unit": "MSOL22",
+            "asset_code": "22",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "24": {
+            "asset_id": 522085128,
+            "asset_name": "MesiSol #23",
+            "asset_unit": "MSOL23",
+            "asset_code": "23",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "25": {
+            "asset_id": 522085364,
+            "asset_name": "MesiSol #24",
+            "asset_unit": "MSOL24",
+            "asset_code": "24",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "26": {
+            "asset_id": 522085544,
+            "asset_name": "MesiSol #25",
+            "asset_unit": "MSOL25",
+            "asset_code": "25",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "27": {
+            "asset_id": 522085738,
+            "asset_name": "MesiSol #26",
+            "asset_unit": "MSOL26",
+            "asset_code": "26",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "28": {
+            "asset_id": 522085904,
+            "asset_name": "MesiSol #27",
+            "asset_unit": "MSOL27",
+            "asset_code": "27",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "29": {
+            "asset_id": 522086018,
+            "asset_name": "MesiSol #28",
+            "asset_unit": "MSOL28",
+            "asset_code": "28",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "30": {
+            "asset_id": 522086146,
+            "asset_name": "MesiSol #29",
+            "asset_unit": "MSOL29",
+            "asset_code": "29",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "31": {
+            "asset_id": 522086301,
+            "asset_name": "MesiSol #30",
+            "asset_unit": "MSOL30",
+            "asset_code": "30",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "32": {
+            "asset_id": 522086471,
+            "asset_name": "MesiSol #31",
+            "asset_unit": "MSOL31",
+            "asset_code": "31",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "33": {
+            "asset_id": 522086637,
+            "asset_name": "MesiSol #32",
+            "asset_unit": "MSOL32",
+            "asset_code": "32",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "34": {
+            "asset_id": 522086842,
+            "asset_name": "MesiSol #33",
+            "asset_unit": "MSOL33",
+            "asset_code": "33",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "35": {
+            "asset_id": 522086998,
+            "asset_name": "MesiSol #34",
+            "asset_unit": "MSOL34",
+            "asset_code": "34",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "36": {
+            "asset_id": 522087182,
+            "asset_name": "MesiSol #35",
+            "asset_unit": "MSOL35",
+            "asset_code": "35",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "37": {
+            "asset_id": 522087329,
+            "asset_name": "MesiSol #36",
+            "asset_unit": "MSOL36",
+            "asset_code": "36",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "38": {
+            "asset_id": 522087513,
+            "asset_name": "MesiSol #37",
+            "asset_unit": "MSOL37",
+            "asset_code": "37",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "39": {
+            "asset_id": 522087667,
+            "asset_name": "MesiSol #38",
+            "asset_unit": "MSOL38",
+            "asset_code": "38",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "40": {
+            "asset_id": 522087857,
+            "asset_name": "MesiSol #39",
+            "asset_unit": "MSOL39",
+            "asset_code": "39",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "41": {
+            "asset_id": 522087978,
+            "asset_name": "MesiSol #40",
+            "asset_unit": "MSOL40",
+            "asset_code": "40",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "42": {
+            "asset_id": 522088151,
+            "asset_name": "MesiSol #41",
+            "asset_unit": "MSOL41",
+            "asset_code": "41",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "43": {
+            "asset_id": 522088288,
+            "asset_name": "MesiSol #42",
+            "asset_unit": "MSOL42",
+            "asset_code": "42",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "44": {
+            "asset_id": 522088414,
+            "asset_name": "MesiSol #43",
+            "asset_unit": "MSOL43",
+            "asset_code": "43",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "45": {
+            "asset_id": 522088642,
+            "asset_name": "MesiSol #44",
+            "asset_unit": "MSOL44",
+            "asset_code": "44",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "46": {
+            "asset_id": 522088808,
+            "asset_name": "MesiSol #45",
+            "asset_unit": "MSOL45",
+            "asset_code": "45",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "47": {
+            "asset_id": 522089050,
+            "asset_name": "MesiSol #46",
+            "asset_unit": "MSOL46",
+            "asset_code": "46",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "48": {
+            "asset_id": 522089250,
+            "asset_name": "MesiSol #47",
+            "asset_unit": "MSOL47",
+            "asset_code": "47",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "49": {
+            "asset_id": 522089448,
+            "asset_name": "MesiSol #48",
+            "asset_unit": "MSOL48",
+            "asset_code": "48",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "50": {
+            "asset_id": 522089627,
+            "asset_name": "MesiSol #49",
+            "asset_unit": "MSOL49",
+            "asset_code": "49",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "51": {
+            "asset_id": 522089736,
+            "asset_name": "MesiSol #50",
+            "asset_unit": "MSOL50",
+            "asset_code": "50",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "52": {
+            "asset_id": 522089875,
+            "asset_name": "MesiSol #51",
+            "asset_unit": "MSOL51",
+            "asset_code": "51",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "53": {
+            "asset_id": 522089992,
+            "asset_name": "MesiSol #52",
+            "asset_unit": "MSOL52",
+            "asset_code": "52",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "54": {
+            "asset_id": 522090163,
+            "asset_name": "MesiSol #53",
+            "asset_unit": "MSOL53",
+            "asset_code": "53",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "55": {
+            "asset_id": 522090340,
+            "asset_name": "MesiSol #54",
+            "asset_unit": "MSOL54",
+            "asset_code": "54",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "56": {
+            "asset_id": 522090529,
+            "asset_name": "MesiSol #55",
+            "asset_unit": "MSOL55",
+            "asset_code": "55",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "57": {
+            "asset_id": 522090688,
+            "asset_name": "MesiSol #56",
+            "asset_unit": "MSOL56",
+            "asset_code": "56",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "58": {
+            "asset_id": 522090887,
+            "asset_name": "MesiSol #57",
+            "asset_unit": "MSOL57",
+            "asset_code": "57",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "59": {
+            "asset_id": 522091039,
+            "asset_name": "MesiSol #58",
+            "asset_unit": "MSOL58",
+            "asset_code": "58",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "60": {
+            "asset_id": 522091215,
+            "asset_name": "MesiSol #59",
+            "asset_unit": "MSOL59",
+            "asset_code": "59",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "61": {
+            "asset_id": 522091372,
+            "asset_name": "MesiSol #60",
+            "asset_unit": "MSOL60",
+            "asset_code": "60",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "62": {
+            "asset_id": 522091517,
+            "asset_name": "MesiSol #61",
+            "asset_unit": "MSOL61",
+            "asset_code": "61",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "63": {
+            "asset_id": 522091683,
+            "asset_name": "MesiSol #62",
+            "asset_unit": "MSOL62",
+            "asset_code": "62",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "64": {
+            "asset_id": 522091808,
+            "asset_name": "MesiSol #63",
+            "asset_unit": "MSOL63",
+            "asset_code": "63",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "65": {
+            "asset_id": 522091944,
+            "asset_name": "MesiSol #64",
+            "asset_unit": "MSOL64",
+            "asset_code": "64",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "66": {
+            "asset_id": 522092082,
+            "asset_name": "MesiSol #65",
+            "asset_unit": "MSOL65",
+            "asset_code": "65",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "67": {
+            "asset_id": 522092271,
+            "asset_name": "MesiSol #66",
+            "asset_unit": "MSOL66",
+            "asset_code": "66",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "68": {
+            "asset_id": 522092451,
+            "asset_name": "MesiSol #67",
+            "asset_unit": "MSOL67",
+            "asset_code": "67",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "69": {
+            "asset_id": 522092677,
+            "asset_name": "MesiSol #68",
+            "asset_unit": "MSOL68",
+            "asset_code": "68",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "70": {
+            "asset_id": 522092826,
+            "asset_name": "MesiSol #69",
+            "asset_unit": "MSOL69",
+            "asset_code": "69",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "71": {
+            "asset_id": 522093297,
+            "asset_name": "MesiSol #70",
+            "asset_unit": "MSOL70",
+            "asset_code": "70",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "72": {
+            "asset_id": 522093638,
+            "asset_name": "MesiSol #71",
+            "asset_unit": "MSOL71",
+            "asset_code": "71",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "73": {
+            "asset_id": 522094225,
+            "asset_name": "MesiSol #72",
+            "asset_unit": "MSOL72",
+            "asset_code": "72",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "74": {
+            "asset_id": 522094810,
+            "asset_name": "MesiSol #73",
+            "asset_unit": "MSOL73",
+            "asset_code": "73",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "75": {
+            "asset_id": 522095239,
+            "asset_name": "MesiSol #74",
+            "asset_unit": "MSOL74",
+            "asset_code": "74",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "76": {
+            "asset_id": 522095644,
+            "asset_name": "MesiSol #75",
+            "asset_unit": "MSOL75",
+            "asset_code": "75",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "77": {
+            "asset_id": 522096182,
+            "asset_name": "MesiSol #76",
+            "asset_unit": "MSOL76",
+            "asset_code": "76",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "78": {
+            "asset_id": 522096643,
+            "asset_name": "MesiSol #77",
+            "asset_unit": "MSOL77",
+            "asset_code": "77",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "79": {
+            "asset_id": 522096906,
+            "asset_name": "MesiSol #78",
+            "asset_unit": "MSOL78",
+            "asset_code": "78",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "80": {
+            "asset_id": 522097082,
+            "asset_name": "MesiSol #79",
+            "asset_unit": "MSOL79",
+            "asset_code": "79",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "81": {
+            "asset_id": 522097220,
+            "asset_name": "MesiSol #80",
+            "asset_unit": "MSOL80",
+            "asset_code": "80",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "82": {
+            "asset_id": 522097334,
+            "asset_name": "MesiSol #81",
+            "asset_unit": "MSOL81",
+            "asset_code": "81",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "83": {
+            "asset_id": 522097498,
+            "asset_name": "MesiSol #82",
+            "asset_unit": "MSOL82",
+            "asset_code": "82",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "84": {
+            "asset_id": 522097644,
+            "asset_name": "MesiSol #83",
+            "asset_unit": "MSOL83",
+            "asset_code": "83",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "85": {
+            "asset_id": 522097763,
+            "asset_name": "MesiSol #84",
+            "asset_unit": "MSOL84",
+            "asset_code": "84",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "86": {
+            "asset_id": 522097961,
+            "asset_name": "MesiSol #85",
+            "asset_unit": "MSOL85",
+            "asset_code": "85",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "87": {
+            "asset_id": 522098101,
+            "asset_name": "MesiSol #86",
+            "asset_unit": "MSOL86",
+            "asset_code": "86",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "88": {
+            "asset_id": 522098211,
+            "asset_name": "MesiSol #87",
+            "asset_unit": "MSOL87",
+            "asset_code": "87",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "89": {
+            "asset_id": 522098354,
+            "asset_name": "MesiSol #88",
+            "asset_unit": "MSOL88",
+            "asset_code": "88",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "90": {
+            "asset_id": 522098574,
+            "asset_name": "MesiSol #89",
+            "asset_unit": "MSOL89",
+            "asset_code": "89",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "91": {
+            "asset_id": 522098833,
+            "asset_name": "MesiSol #90",
+            "asset_unit": "MSOL90",
+            "asset_code": "90",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "92": {
+            "asset_id": 522099047,
+            "asset_name": "MesiSol #91",
+            "asset_unit": "MSOL91",
+            "asset_code": "91",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "93": {
+            "asset_id": 522099232,
+            "asset_name": "MesiSol #92",
+            "asset_unit": "MSOL92",
+            "asset_code": "92",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "94": {
+            "asset_id": 522099389,
+            "asset_name": "MesiSol #93",
+            "asset_unit": "MSOL93",
+            "asset_code": "93",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "95": {
+            "asset_id": 522099562,
+            "asset_name": "MesiSol #94",
+            "asset_unit": "MSOL94",
+            "asset_code": "94",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "96": {
+            "asset_id": 522099743,
+            "asset_name": "MesiSol #95",
+            "asset_unit": "MSOL95",
+            "asset_code": "95",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "97": {
+            "asset_id": 522099955,
+            "asset_name": "MesiSol #96",
+            "asset_unit": "MSOL96",
+            "asset_code": "96",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "98": {
+            "asset_id": 522100116,
+            "asset_name": "MesiSol #97",
+            "asset_unit": "MSOL97",
+            "asset_code": "97",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "99": {
+            "asset_id": 522100241,
+            "asset_name": "MesiSol #98",
+            "asset_unit": "MSOL98",
+            "asset_code": "98",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "100": {
+            "asset_id": 522100415,
+            "asset_name": "MesiSol #99",
+            "asset_unit": "MSOL99",
+            "asset_code": "99",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "101": {
+            "asset_id": 522100707,
+            "asset_name": "MesiSol #100",
+            "asset_unit": "MSOL100",
+            "asset_code": "100",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "102": {
+            "asset_id": 522100926,
+            "asset_name": "MesiSol #101",
+            "asset_unit": "MSOL101",
+            "asset_code": "101",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "103": {
+            "asset_id": 522101135,
+            "asset_name": "MesiSol #102",
+            "asset_unit": "MSOL102",
+            "asset_code": "102",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "104": {
+            "asset_id": 522101360,
+            "asset_name": "MesiSol #103",
+            "asset_unit": "MSOL103",
+            "asset_code": "103",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "105": {
+            "asset_id": 522101719,
+            "asset_name": "MesiSol #104",
+            "asset_unit": "MSOL104",
+            "asset_code": "104",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "106": {
+            "asset_id": 522101940,
+            "asset_name": "MesiSol #105",
+            "asset_unit": "MSOL105",
+            "asset_code": "105",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "107": {
+            "asset_id": 522102165,
+            "asset_name": "MesiSol #106",
+            "asset_unit": "MSOL106",
+            "asset_code": "106",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "108": {
+            "asset_id": 522102375,
+            "asset_name": "MesiSol #107",
+            "asset_unit": "MSOL107",
+            "asset_code": "107",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "109": {
+            "asset_id": 522102586,
+            "asset_name": "MesiSol #108",
+            "asset_unit": "MSOL108",
+            "asset_code": "108",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "110": {
+            "asset_id": 522102767,
+            "asset_name": "MesiSol #109",
+            "asset_unit": "MSOL109",
+            "asset_code": "109",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "111": {
+            "asset_id": 522102921,
+            "asset_name": "MesiSol #110",
+            "asset_unit": "MSOL110",
+            "asset_code": "110",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "112": {
+            "asset_id": 522103097,
+            "asset_name": "MesiSol #111",
+            "asset_unit": "MSOL111",
+            "asset_code": "111",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "113": {
+            "asset_id": 522103305,
+            "asset_name": "MesiSol #112",
+            "asset_unit": "MSOL112",
+            "asset_code": "112",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "114": {
+            "asset_id": 522103499,
+            "asset_name": "MesiSol #113",
+            "asset_unit": "MSOL113",
+            "asset_code": "113",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "115": {
+            "asset_id": 522103683,
+            "asset_name": "MesiSol #114",
+            "asset_unit": "MSOL114",
+            "asset_code": "114",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "116": {
+            "asset_id": 522103930,
+            "asset_name": "MesiSol #115",
+            "asset_unit": "MSOL115",
+            "asset_code": "115",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "117": {
+            "asset_id": 522104115,
+            "asset_name": "MesiSol #116",
+            "asset_unit": "MSOL116",
+            "asset_code": "116",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "118": {
+            "asset_id": 522104287,
+            "asset_name": "MesiSol #117",
+            "asset_unit": "MSOL117",
+            "asset_code": "117",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "119": {
+            "asset_id": 522104526,
+            "asset_name": "MesiSol #118",
+            "asset_unit": "MSOL118",
+            "asset_code": "118",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "120": {
+            "asset_id": 522104752,
+            "asset_name": "MesiSol #119",
+            "asset_unit": "MSOL119",
+            "asset_code": "119",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "121": {
+            "asset_id": 522105017,
+            "asset_name": "MesiSol #120",
+            "asset_unit": "MSOL120",
+            "asset_code": "120",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "122": {
+            "asset_id": 522105244,
+            "asset_name": "MesiSol #121",
+            "asset_unit": "MSOL121",
+            "asset_code": "121",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "123": {
+            "asset_id": 522105434,
+            "asset_name": "MesiSol #122",
+            "asset_unit": "MSOL122",
+            "asset_code": "122",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "124": {
+            "asset_id": 522105665,
+            "asset_name": "MesiSol #123",
+            "asset_unit": "MSOL123",
+            "asset_code": "123",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "125": {
+            "asset_id": 522105847,
+            "asset_name": "MesiSol #124",
+            "asset_unit": "MSOL124",
+            "asset_code": "124",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "126": {
+            "asset_id": 522106001,
+            "asset_name": "MesiSol #125",
+            "asset_unit": "MSOL125",
+            "asset_code": "125",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "127": {
+            "asset_id": 522106162,
+            "asset_name": "MesiSol #126",
+            "asset_unit": "MSOL126",
+            "asset_code": "126",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "128": {
+            "asset_id": 522106331,
+            "asset_name": "MesiSol #127",
+            "asset_unit": "MSOL127",
+            "asset_code": "127",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "129": {
+            "asset_id": 522106470,
+            "asset_name": "MesiSol #128",
+            "asset_unit": "MSOL128",
+            "asset_code": "128",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "130": {
+            "asset_id": 522106641,
+            "asset_name": "MesiSol #129",
+            "asset_unit": "MSOL129",
+            "asset_code": "129",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "131": {
+            "asset_id": 522106828,
+            "asset_name": "MesiSol #130",
+            "asset_unit": "MSOL130",
+            "asset_code": "130",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "132": {
+            "asset_id": 522106988,
+            "asset_name": "MesiSol #131",
+            "asset_unit": "MSOL131",
+            "asset_code": "131",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "133": {
+            "asset_id": 522107170,
+            "asset_name": "MesiSol #132",
+            "asset_unit": "MSOL132",
+            "asset_code": "132",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "134": {
+            "asset_id": 522107267,
+            "asset_name": "MesiSol #133",
+            "asset_unit": "MSOL133",
+            "asset_code": "133",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "135": {
+            "asset_id": 522107434,
+            "asset_name": "MesiSol #134",
+            "asset_unit": "MSOL134",
+            "asset_code": "134",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "136": {
+            "asset_id": 522107576,
+            "asset_name": "MesiSol #135",
+            "asset_unit": "MSOL135",
+            "asset_code": "135",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "137": {
+            "asset_id": 522107715,
+            "asset_name": "MesiSol #136",
+            "asset_unit": "MSOL136",
+            "asset_code": "136",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "138": {
+            "asset_id": 522107889,
+            "asset_name": "MesiSol #137",
+            "asset_unit": "MSOL137",
+            "asset_code": "137",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "139": {
+            "asset_id": 522107980,
+            "asset_name": "MesiSol #138",
+            "asset_unit": "MSOL138",
+            "asset_code": "138",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "140": {
+            "asset_id": 522108126,
+            "asset_name": "MesiSol #139",
+            "asset_unit": "MSOL139",
+            "asset_code": "139",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "141": {
+            "asset_id": 522108304,
+            "asset_name": "MesiSol #140",
+            "asset_unit": "MSOL140",
+            "asset_code": "140",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "142": {
+            "asset_id": 522108411,
+            "asset_name": "MesiSol #141",
+            "asset_unit": "MSOL141",
+            "asset_code": "141",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "143": {
+            "asset_id": 522108536,
+            "asset_name": "MesiSol #142",
+            "asset_unit": "MSOL142",
+            "asset_code": "142",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "144": {
+            "asset_id": 522108652,
+            "asset_name": "MesiSol #143",
+            "asset_unit": "MSOL143",
+            "asset_code": "143",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "145": {
+            "asset_id": 522108765,
+            "asset_name": "MesiSol #144",
+            "asset_unit": "MSOL144",
+            "asset_code": "144",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "146": {
+            "asset_id": 522108860,
+            "asset_name": "MesiSol #145",
+            "asset_unit": "MSOL145",
+            "asset_code": "145",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "147": {
+            "asset_id": 522108972,
+            "asset_name": "MesiSol #146",
+            "asset_unit": "MSOL146",
+            "asset_code": "146",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "148": {
+            "asset_id": 522109211,
+            "asset_name": "MesiSol #147",
+            "asset_unit": "MSOL147",
+            "asset_code": "147",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "149": {
+            "asset_id": 522109368,
+            "asset_name": "MesiSol #148",
+            "asset_unit": "MSOL148",
+            "asset_code": "148",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "150": {
+            "asset_id": 522109514,
+            "asset_name": "MesiSol #149",
+            "asset_unit": "MSOL149",
+            "asset_code": "149",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "151": {
+            "asset_id": 522109673,
+            "asset_name": "MesiSol #150",
+            "asset_unit": "MSOL150",
+            "asset_code": "150",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "152": {
+            "asset_id": 522109820,
+            "asset_name": "MesiSol #151",
+            "asset_unit": "MSOL151",
+            "asset_code": "151",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "153": {
+            "asset_id": 522109980,
+            "asset_name": "MesiSol #152",
+            "asset_unit": "MSOL152",
+            "asset_code": "152",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "154": {
+            "asset_id": 522110180,
+            "asset_name": "MesiSol #153",
+            "asset_unit": "MSOL153",
+            "asset_code": "153",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "155": {
+            "asset_id": 522110399,
+            "asset_name": "MesiSol #154",
+            "asset_unit": "MSOL154",
+            "asset_code": "154",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "156": {
+            "asset_id": 522110589,
+            "asset_name": "MesiSol #155",
+            "asset_unit": "MSOL155",
+            "asset_code": "155",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "157": {
+            "asset_id": 522110757,
+            "asset_name": "MesiSol #156",
+            "asset_unit": "MSOL156",
+            "asset_code": "156",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "158": {
+            "asset_id": 522110916,
+            "asset_name": "MesiSol #157",
+            "asset_unit": "MSOL157",
+            "asset_code": "157",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "159": {
+            "asset_id": 522111090,
+            "asset_name": "MesiSol #158",
+            "asset_unit": "MSOL158",
+            "asset_code": "158",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "160": {
+            "asset_id": 522111239,
+            "asset_name": "MesiSol #159",
+            "asset_unit": "MSOL159",
+            "asset_code": "159",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "161": {
+            "asset_id": 522111378,
+            "asset_name": "MesiSol #160",
+            "asset_unit": "MSOL160",
+            "asset_code": "160",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "162": {
+            "asset_id": 522111547,
+            "asset_name": "MesiSol #161",
+            "asset_unit": "MSOL161",
+            "asset_code": "161",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "163": {
+            "asset_id": 522111699,
+            "asset_name": "MesiSol #162",
+            "asset_unit": "MSOL162",
+            "asset_code": "162",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "164": {
+            "asset_id": 522111817,
+            "asset_name": "MesiSol #163",
+            "asset_unit": "MSOL163",
+            "asset_code": "163",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "165": {
+            "asset_id": 522111980,
+            "asset_name": "MesiSol #164",
+            "asset_unit": "MSOL164",
+            "asset_code": "164",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "166": {
+            "asset_id": 522112127,
+            "asset_name": "MesiSol #165",
+            "asset_unit": "MSOL165",
+            "asset_code": "165",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "167": {
+            "asset_id": 522112274,
+            "asset_name": "MesiSol #166",
+            "asset_unit": "MSOL166",
+            "asset_code": "166",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "168": {
+            "asset_id": 522112420,
+            "asset_name": "MesiSol #167",
+            "asset_unit": "MSOL167",
+            "asset_code": "167",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "169": {
+            "asset_id": 522112590,
+            "asset_name": "MesiSol #168",
+            "asset_unit": "MSOL168",
+            "asset_code": "168",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "170": {
+            "asset_id": 522112755,
+            "asset_name": "MesiSol #169",
+            "asset_unit": "MSOL169",
+            "asset_code": "169",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "171": {
+            "asset_id": 522112861,
+            "asset_name": "MesiSol #170",
+            "asset_unit": "MSOL170",
+            "asset_code": "170",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "172": {
+            "asset_id": 522113012,
+            "asset_name": "MesiSol #171",
+            "asset_unit": "MSOL171",
+            "asset_code": "171",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "173": {
+            "asset_id": 522113210,
+            "asset_name": "MesiSol #172",
+            "asset_unit": "MSOL172",
+            "asset_code": "172",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "174": {
+            "asset_id": 522113345,
+            "asset_name": "MesiSol #173",
+            "asset_unit": "MSOL173",
+            "asset_code": "173",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "175": {
+            "asset_id": 522113510,
+            "asset_name": "MesiSol #174",
+            "asset_unit": "MSOL174",
+            "asset_code": "174",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "176": {
+            "asset_id": 522113667,
+            "asset_name": "MesiSol #175",
+            "asset_unit": "MSOL175",
+            "asset_code": "175",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "177": {
+            "asset_id": 522113769,
+            "asset_name": "MesiSol #176",
+            "asset_unit": "MSOL176",
+            "asset_code": "176",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "178": {
+            "asset_id": 522113942,
+            "asset_name": "MesiSol #177",
+            "asset_unit": "MSOL177",
+            "asset_code": "177",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "179": {
+            "asset_id": 522114102,
+            "asset_name": "MesiSol #178",
+            "asset_unit": "MSOL178",
+            "asset_code": "178",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "180": {
+            "asset_id": 522114226,
+            "asset_name": "MesiSol #179",
+            "asset_unit": "MSOL179",
+            "asset_code": "179",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "181": {
+            "asset_id": 522117924,
+            "asset_name": "MesiSol #180",
+            "asset_unit": "MSOL180",
+            "asset_code": "180",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "182": {
+            "asset_id": 522118052,
+            "asset_name": "MesiSol #181",
+            "asset_unit": "MSOL181",
+            "asset_code": "181",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "183": {
+            "asset_id": 522118187,
+            "asset_name": "MesiSol #182",
+            "asset_unit": "MSOL182",
+            "asset_code": "182",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "184": {
+            "asset_id": 522118393,
+            "asset_name": "MesiSol #183",
+            "asset_unit": "MSOL183",
+            "asset_code": "183",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "185": {
+            "asset_id": 522118528,
+            "asset_name": "MesiSol #184",
+            "asset_unit": "MSOL184",
+            "asset_code": "184",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "186": {
+            "asset_id": 522118727,
+            "asset_name": "MesiSol #185",
+            "asset_unit": "MSOL185",
+            "asset_code": "185",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "187": {
+            "asset_id": 522118952,
+            "asset_name": "MesiSol #186",
+            "asset_unit": "MSOL186",
+            "asset_code": "186",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "188": {
+            "asset_id": 522119161,
+            "asset_name": "MesiSol #187",
+            "asset_unit": "MSOL187",
+            "asset_code": "187",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "189": {
+            "asset_id": 522119356,
+            "asset_name": "MesiSol #188",
+            "asset_unit": "MSOL188",
+            "asset_code": "188",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "190": {
+            "asset_id": 522119593,
+            "asset_name": "MesiSol #189",
+            "asset_unit": "MSOL189",
+            "asset_code": "189",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "191": {
+            "asset_id": 522119853,
+            "asset_name": "MesiSol #190",
+            "asset_unit": "MSOL190",
+            "asset_code": "190",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "192": {
+            "asset_id": 522120139,
+            "asset_name": "MesiSol #191",
+            "asset_unit": "MSOL191",
+            "asset_code": "191",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "193": {
+            "asset_id": 522120355,
+            "asset_name": "MesiSol #192",
+            "asset_unit": "MSOL192",
+            "asset_code": "192",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "194": {
+            "asset_id": 522120544,
+            "asset_name": "MesiSol #193",
+            "asset_unit": "MSOL193",
+            "asset_code": "193",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "195": {
+            "asset_id": 522120652,
+            "asset_name": "MesiSol #194",
+            "asset_unit": "MSOL194",
+            "asset_code": "194",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "196": {
+            "asset_id": 522120773,
+            "asset_name": "MesiSol #195",
+            "asset_unit": "MSOL195",
+            "asset_code": "195",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "197": {
+            "asset_id": 522120929,
+            "asset_name": "MesiSol #196",
+            "asset_unit": "MSOL196",
+            "asset_code": "196",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "198": {
+            "asset_id": 522121062,
+            "asset_name": "MesiSol #197",
+            "asset_unit": "MSOL197",
+            "asset_code": "197",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "199": {
+            "asset_id": 522121296,
+            "asset_name": "MesiSol #198",
+            "asset_unit": "MSOL198",
+            "asset_code": "198",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "200": {
+            "asset_id": 522121495,
+            "asset_name": "MesiSol #199",
+            "asset_unit": "MSOL199",
+            "asset_code": "199",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "201": {
+            "asset_id": 522121699,
+            "asset_name": "MesiSol #200",
+            "asset_unit": "MSOL200",
+            "asset_code": "200",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "202": {
+            "asset_id": 522121928,
+            "asset_name": "MesiSol #201",
+            "asset_unit": "MSOL201",
+            "asset_code": "201",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "203": {
+            "asset_id": 522122084,
+            "asset_name": "MesiSol #202",
+            "asset_unit": "MSOL202",
+            "asset_code": "202",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "204": {
+            "asset_id": 522122249,
+            "asset_name": "MesiSol #203",
+            "asset_unit": "MSOL203",
+            "asset_code": "203",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "205": {
+            "asset_id": 522122420,
+            "asset_name": "MesiSol #204",
+            "asset_unit": "MSOL204",
+            "asset_code": "204",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "206": {
+            "asset_id": 522122601,
+            "asset_name": "MesiSol #205",
+            "asset_unit": "MSOL205",
+            "asset_code": "205",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "207": {
+            "asset_id": 522122762,
+            "asset_name": "MesiSol #206",
+            "asset_unit": "MSOL206",
+            "asset_code": "206",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "208": {
+            "asset_id": 522123016,
+            "asset_name": "MesiSol #207",
+            "asset_unit": "MSOL207",
+            "asset_code": "207",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "209": {
+            "asset_id": 522123249,
+            "asset_name": "MesiSol #208",
+            "asset_unit": "MSOL208",
+            "asset_code": "208",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "210": {
+            "asset_id": 522123470,
+            "asset_name": "MesiSol #209",
+            "asset_unit": "MSOL209",
+            "asset_code": "209",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "211": {
+            "asset_id": 522123617,
+            "asset_name": "MesiSol #210",
+            "asset_unit": "MSOL210",
+            "asset_code": "210",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "212": {
+            "asset_id": 522123790,
+            "asset_name": "MesiSol #211",
+            "asset_unit": "MSOL211",
+            "asset_code": "211",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "213": {
+            "asset_id": 522124034,
+            "asset_name": "MesiSol #212",
+            "asset_unit": "MSOL212",
+            "asset_code": "212",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "214": {
+            "asset_id": 522124210,
+            "asset_name": "MesiSol #213",
+            "asset_unit": "MSOL213",
+            "asset_code": "213",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "215": {
+            "asset_id": 522124386,
+            "asset_name": "MesiSol #214",
+            "asset_unit": "MSOL214",
+            "asset_code": "214",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "216": {
+            "asset_id": 522124638,
+            "asset_name": "MesiSol #215",
+            "asset_unit": "MSOL215",
+            "asset_code": "215",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "217": {
+            "asset_id": 522124852,
+            "asset_name": "MesiSol #216",
+            "asset_unit": "MSOL216",
+            "asset_code": "216",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "218": {
+            "asset_id": 522125052,
+            "asset_name": "MesiSol #217",
+            "asset_unit": "MSOL217",
+            "asset_code": "217",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "219": {
+            "asset_id": 522125271,
+            "asset_name": "MesiSol #218",
+            "asset_unit": "MSOL218",
+            "asset_code": "218",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "220": {
+            "asset_id": 522125483,
+            "asset_name": "MesiSol #219",
+            "asset_unit": "MSOL219",
+            "asset_code": "219",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "221": {
+            "asset_id": 522125667,
+            "asset_name": "MesiSol #220",
+            "asset_unit": "MSOL220",
+            "asset_code": "220",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "222": {
+            "asset_id": 522125880,
+            "asset_name": "MesiSol #221",
+            "asset_unit": "MSOL221",
+            "asset_code": "221",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "223": {
+            "asset_id": 522126062,
+            "asset_name": "MesiSol #222",
+            "asset_unit": "MSOL222",
+            "asset_code": "222",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "224": {
+            "asset_id": 522126279,
+            "asset_name": "MesiSol #223",
+            "asset_unit": "MSOL223",
+            "asset_code": "223",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "225": {
+            "asset_id": 522126434,
+            "asset_name": "MesiSol #224",
+            "asset_unit": "MSOL224",
+            "asset_code": "224",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "226": {
+            "asset_id": 522126588,
+            "asset_name": "MesiSol #225",
+            "asset_unit": "MSOL225",
+            "asset_code": "225",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "227": {
+            "asset_id": 522126756,
+            "asset_name": "MesiSol #226",
+            "asset_unit": "MSOL226",
+            "asset_code": "226",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "228": {
+            "asset_id": 522126895,
+            "asset_name": "MesiSol #227",
+            "asset_unit": "MSOL227",
+            "asset_code": "227",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "229": {
+            "asset_id": 522127038,
+            "asset_name": "MesiSol #228",
+            "asset_unit": "MSOL228",
+            "asset_code": "228",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "230": {
+            "asset_id": 522127205,
+            "asset_name": "MesiSol #229",
+            "asset_unit": "MSOL229",
+            "asset_code": "229",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "231": {
+            "asset_id": 522127373,
+            "asset_name": "MesiSol #230",
+            "asset_unit": "MSOL230",
+            "asset_code": "230",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "232": {
+            "asset_id": 522127524,
+            "asset_name": "MesiSol #231",
+            "asset_unit": "MSOL231",
+            "asset_code": "231",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "233": {
+            "asset_id": 522127721,
+            "asset_name": "MesiSol #232",
+            "asset_unit": "MSOL232",
+            "asset_code": "232",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "234": {
+            "asset_id": 522127876,
+            "asset_name": "MesiSol #233",
+            "asset_unit": "MSOL233",
+            "asset_code": "233",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "235": {
+            "asset_id": 522128020,
+            "asset_name": "MesiSol #234",
+            "asset_unit": "MSOL234",
+            "asset_code": "234",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "236": {
+            "asset_id": 522128249,
+            "asset_name": "MesiSol #235",
+            "asset_unit": "MSOL235",
+            "asset_code": "235",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "237": {
+            "asset_id": 522128425,
+            "asset_name": "MesiSol #236",
+            "asset_unit": "MSOL236",
+            "asset_code": "236",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "238": {
+            "asset_id": 522128566,
+            "asset_name": "MesiSol #237",
+            "asset_unit": "MSOL237",
+            "asset_code": "237",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "239": {
+            "asset_id": 522128710,
+            "asset_name": "MesiSol #238",
+            "asset_unit": "MSOL238",
+            "asset_code": "238",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "240": {
+            "asset_id": 522128864,
+            "asset_name": "MesiSol #239",
+            "asset_unit": "MSOL239",
+            "asset_code": "239",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "241": {
+            "asset_id": 522129018,
+            "asset_name": "MesiSol #240",
+            "asset_unit": "MSOL240",
+            "asset_code": "240",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "242": {
+            "asset_id": 522129162,
+            "asset_name": "MesiSol #241",
+            "asset_unit": "MSOL241",
+            "asset_code": "241",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "243": {
+            "asset_id": 522129314,
+            "asset_name": "MesiSol #242",
+            "asset_unit": "MSOL242",
+            "asset_code": "242",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "244": {
+            "asset_id": 522129424,
+            "asset_name": "MesiSol #243",
+            "asset_unit": "MSOL243",
+            "asset_code": "243",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "245": {
+            "asset_id": 522129573,
+            "asset_name": "MesiSol #244",
+            "asset_unit": "MSOL244",
+            "asset_code": "244",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "246": {
+            "asset_id": 522129704,
+            "asset_name": "MesiSol #245",
+            "asset_unit": "MSOL245",
+            "asset_code": "245",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "247": {
+            "asset_id": 522129866,
+            "asset_name": "MesiSol #246",
+            "asset_unit": "MSOL246",
+            "asset_code": "246",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "248": {
+            "asset_id": 522130005,
+            "asset_name": "MesiSol #247",
+            "asset_unit": "MSOL247",
+            "asset_code": "247",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "249": {
+            "asset_id": 522130161,
+            "asset_name": "MesiSol #248",
+            "asset_unit": "MSOL248",
+            "asset_code": "248",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "250": {
+            "asset_id": 522130370,
+            "asset_name": "MesiSol #249",
+            "asset_unit": "MSOL249",
+            "asset_code": "249",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "251": {
+            "asset_id": 522130497,
+            "asset_name": "MesiSol #250",
+            "asset_unit": "MSOL250",
+            "asset_code": "250",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "252": {
+            "asset_id": 522130627,
+            "asset_name": "MesiSol #251",
+            "asset_unit": "MSOL251",
+            "asset_code": "251",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "253": {
+            "asset_id": 522130780,
+            "asset_name": "MesiSol #252",
+            "asset_unit": "MSOL252",
+            "asset_code": "252",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "254": {
+            "asset_id": 522130958,
+            "asset_name": "MesiSol #253",
+            "asset_unit": "MSOL253",
+            "asset_code": "253",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "255": {
+            "asset_id": 522131126,
+            "asset_name": "MesiSol #254",
+            "asset_unit": "MSOL254",
+            "asset_code": "254",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "256": {
+            "asset_id": 522131291,
+            "asset_name": "MesiSol #255",
+            "asset_unit": "MSOL255",
+            "asset_code": "255",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "257": {
+            "asset_id": 522131436,
+            "asset_name": "MesiSol #256",
+            "asset_unit": "MSOL256",
+            "asset_code": "256",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "258": {
+            "asset_id": 522131594,
+            "asset_name": "MesiSol #257",
+            "asset_unit": "MSOL257",
+            "asset_code": "257",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "259": {
+            "asset_id": 522131706,
+            "asset_name": "MesiSol #258",
+            "asset_unit": "MSOL258",
+            "asset_code": "258",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "260": {
+            "asset_id": 522131864,
+            "asset_name": "MesiSol #259",
+            "asset_unit": "MSOL259",
+            "asset_code": "259",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "261": {
+            "asset_id": 522132024,
+            "asset_name": "MesiSol #260",
+            "asset_unit": "MSOL260",
+            "asset_code": "260",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "262": {
+            "asset_id": 522132183,
+            "asset_name": "MesiSol #261",
+            "asset_unit": "MSOL261",
+            "asset_code": "261",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "263": {
+            "asset_id": 522132307,
+            "asset_name": "MesiSol #262",
+            "asset_unit": "MSOL262",
+            "asset_code": "262",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "264": {
+            "asset_id": 522132441,
+            "asset_name": "MesiSol #263",
+            "asset_unit": "MSOL263",
+            "asset_code": "263",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "265": {
+            "asset_id": 522132560,
+            "asset_name": "MesiSol #264",
+            "asset_unit": "MSOL264",
+            "asset_code": "264",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "266": {
+            "asset_id": 522132752,
+            "asset_name": "MesiSol #265",
+            "asset_unit": "MSOL265",
+            "asset_code": "265",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "267": {
+            "asset_id": 522132904,
+            "asset_name": "MesiSol #266",
+            "asset_unit": "MSOL266",
+            "asset_code": "266",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "268": {
+            "asset_id": 522133047,
+            "asset_name": "MesiSol #267",
+            "asset_unit": "MSOL267",
+            "asset_code": "267",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "269": {
+            "asset_id": 522133226,
+            "asset_name": "MesiSol #268",
+            "asset_unit": "MSOL268",
+            "asset_code": "268",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "270": {
+            "asset_id": 522133376,
+            "asset_name": "MesiSol #269",
+            "asset_unit": "MSOL269",
+            "asset_code": "269",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "271": {
+            "asset_id": 522133581,
+            "asset_name": "MesiSol #270",
+            "asset_unit": "MSOL270",
+            "asset_code": "270",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "272": {
+            "asset_id": 522133752,
+            "asset_name": "MesiSol #271",
+            "asset_unit": "MSOL271",
+            "asset_code": "271",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "273": {
+            "asset_id": 522133930,
+            "asset_name": "MesiSol #272",
+            "asset_unit": "MSOL272",
+            "asset_code": "272",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "274": {
+            "asset_id": 522134103,
+            "asset_name": "MesiSol #273",
+            "asset_unit": "MSOL273",
+            "asset_code": "273",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "275": {
+            "asset_id": 522134264,
+            "asset_name": "MesiSol #274",
+            "asset_unit": "MSOL274",
+            "asset_code": "274",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "276": {
+            "asset_id": 522134393,
+            "asset_name": "MesiSol #275",
+            "asset_unit": "MSOL275",
+            "asset_code": "275",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "277": {
+            "asset_id": 522134538,
+            "asset_name": "MesiSol #276",
+            "asset_unit": "MSOL276",
+            "asset_code": "276",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "278": {
+            "asset_id": 522134688,
+            "asset_name": "MesiSol #277",
+            "asset_unit": "MSOL277",
+            "asset_code": "277",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "279": {
+            "asset_id": 522134874,
+            "asset_name": "MesiSol #278",
+            "asset_unit": "MSOL278",
+            "asset_code": "278",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "280": {
+            "asset_id": 522135046,
+            "asset_name": "MesiSol #279",
+            "asset_unit": "MSOL279",
+            "asset_code": "279",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "281": {
+            "asset_id": 522135203,
+            "asset_name": "MesiSol #280",
+            "asset_unit": "MSOL280",
+            "asset_code": "280",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "282": {
+            "asset_id": 522135342,
+            "asset_name": "MesiSol #281",
+            "asset_unit": "MSOL281",
+            "asset_code": "281",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "283": {
+            "asset_id": 522135491,
+            "asset_name": "MesiSol #282",
+            "asset_unit": "MSOL282",
+            "asset_code": "282",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "284": {
+            "asset_id": 522135629,
+            "asset_name": "MesiSol #283",
+            "asset_unit": "MSOL283",
+            "asset_code": "283",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "285": {
+            "asset_id": 522135844,
+            "asset_name": "MesiSol #284",
+            "asset_unit": "MSOL284",
+            "asset_code": "284",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "286": {
+            "asset_id": 522135992,
+            "asset_name": "MesiSol #285",
+            "asset_unit": "MSOL285",
+            "asset_code": "285",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "287": {
+            "asset_id": 522136111,
+            "asset_name": "MesiSol #286",
+            "asset_unit": "MSOL286",
+            "asset_code": "286",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "288": {
+            "asset_id": 522136309,
+            "asset_name": "MesiSol #287",
+            "asset_unit": "MSOL287",
+            "asset_code": "287",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "289": {
+            "asset_id": 522136447,
+            "asset_name": "MesiSol #288",
+            "asset_unit": "MSOL288",
+            "asset_code": "288",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "290": {
+            "asset_id": 522136620,
+            "asset_name": "MesiSol #289",
+            "asset_unit": "MSOL289",
+            "asset_code": "289",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "291": {
+            "asset_id": 522136766,
+            "asset_name": "MesiSol #290",
+            "asset_unit": "MSOL290",
+            "asset_code": "290",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "292": {
+            "asset_id": 522136916,
+            "asset_name": "MesiSol #291",
+            "asset_unit": "MSOL291",
+            "asset_code": "291",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "293": {
+            "asset_id": 522137039,
+            "asset_name": "MesiSol #292",
+            "asset_unit": "MSOL292",
+            "asset_code": "292",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "294": {
+            "asset_id": 522137142,
+            "asset_name": "MesiSol #293",
+            "asset_unit": "MSOL293",
+            "asset_code": "293",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "295": {
+            "asset_id": 522137287,
+            "asset_name": "MesiSol #294",
+            "asset_unit": "MSOL294",
+            "asset_code": "294",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "296": {
+            "asset_id": 522137479,
+            "asset_name": "MesiSol #295",
+            "asset_unit": "MSOL295",
+            "asset_code": "295",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "297": {
+            "asset_id": 522137776,
+            "asset_name": "MesiSol #296",
+            "asset_unit": "MSOL296",
+            "asset_code": "296",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "298": {
+            "asset_id": 522137943,
+            "asset_name": "MesiSol #297",
+            "asset_unit": "MSOL297",
+            "asset_code": "297",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "299": {
+            "asset_id": 522138133,
+            "asset_name": "MesiSol #298",
+            "asset_unit": "MSOL298",
+            "asset_code": "298",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "300": {
+            "asset_id": 522138283,
+            "asset_name": "MesiSol #299",
+            "asset_unit": "MSOL299",
+            "asset_code": "299",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "301": {
+            "asset_id": 522138427,
+            "asset_name": "MesiSol #300",
+            "asset_unit": "MSOL300",
+            "asset_code": "300",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "302": {
+            "asset_id": 522138592,
+            "asset_name": "MesiSol #301",
+            "asset_unit": "MSOL301",
+            "asset_code": "301",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "303": {
+            "asset_id": 522138768,
+            "asset_name": "MesiSol #302",
+            "asset_unit": "MSOL302",
+            "asset_code": "302",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "304": {
+            "asset_id": 522138905,
+            "asset_name": "MesiSol #303",
+            "asset_unit": "MSOL303",
+            "asset_code": "303",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "305": {
+            "asset_id": 522139202,
+            "asset_name": "MesiSol #304",
+            "asset_unit": "MSOL304",
+            "asset_code": "304",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "306": {
+            "asset_id": 522139503,
+            "asset_name": "MesiSol #305",
+            "asset_unit": "MSOL305",
+            "asset_code": "305",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "307": {
+            "asset_id": 522139819,
+            "asset_name": "MesiSol #306",
+            "asset_unit": "MSOL306",
+            "asset_code": "306",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "308": {
+            "asset_id": 522140176,
+            "asset_name": "MesiSol #307",
+            "asset_unit": "MSOL307",
+            "asset_code": "307",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "309": {
+            "asset_id": 522140645,
+            "asset_name": "MesiSol #308",
+            "asset_unit": "MSOL308",
+            "asset_code": "308",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "310": {
+            "asset_id": 522140905,
+            "asset_name": "MesiSol #309",
+            "asset_unit": "MSOL309",
+            "asset_code": "309",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "311": {
+            "asset_id": 522141173,
+            "asset_name": "MesiSol #310",
+            "asset_unit": "MSOL310",
+            "asset_code": "310",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "312": {
+            "asset_id": 522141419,
+            "asset_name": "MesiSol #311",
+            "asset_unit": "MSOL311",
+            "asset_code": "311",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "313": {
+            "asset_id": 522141640,
+            "asset_name": "MesiSol #312",
+            "asset_unit": "MSOL312",
+            "asset_code": "312",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "314": {
+            "asset_id": 522141895,
+            "asset_name": "MesiSol #313",
+            "asset_unit": "MSOL313",
+            "asset_code": "313",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "315": {
+            "asset_id": 522142164,
+            "asset_name": "MesiSol #314",
+            "asset_unit": "MSOL314",
+            "asset_code": "314",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "316": {
+            "asset_id": 522142471,
+            "asset_name": "MesiSol #315",
+            "asset_unit": "MSOL315",
+            "asset_code": "315",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "317": {
+            "asset_id": 522142755,
+            "asset_name": "MesiSol #316",
+            "asset_unit": "MSOL316",
+            "asset_code": "316",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "318": {
+            "asset_id": 522143021,
+            "asset_name": "MesiSol #317",
+            "asset_unit": "MSOL317",
+            "asset_code": "317",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "319": {
+            "asset_id": 522143323,
+            "asset_name": "MesiSol #318",
+            "asset_unit": "MSOL318",
+            "asset_code": "318",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "320": {
+            "asset_id": 522143624,
+            "asset_name": "MesiSol #319",
+            "asset_unit": "MSOL319",
+            "asset_code": "319",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "321": {
+            "asset_id": 522144038,
+            "asset_name": "MesiSol #320",
+            "asset_unit": "MSOL320",
+            "asset_code": "320",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "322": {
+            "asset_id": 522144486,
+            "asset_name": "MesiSol #321",
+            "asset_unit": "MSOL321",
+            "asset_code": "321",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "323": {
+            "asset_id": 522144913,
+            "asset_name": "MesiSol #322",
+            "asset_unit": "MSOL322",
+            "asset_code": "322",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "324": {
+            "asset_id": 522145296,
+            "asset_name": "MesiSol #323",
+            "asset_unit": "MSOL323",
+            "asset_code": "323",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "325": {
+            "asset_id": 522145681,
+            "asset_name": "MesiSol #324",
+            "asset_unit": "MSOL324",
+            "asset_code": "324",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "326": {
+            "asset_id": 522145958,
+            "asset_name": "MesiSol #325",
+            "asset_unit": "MSOL325",
+            "asset_code": "325",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "327": {
+            "asset_id": 522146245,
+            "asset_name": "MesiSol #326",
+            "asset_unit": "MSOL326",
+            "asset_code": "326",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "328": {
+            "asset_id": 522146522,
+            "asset_name": "MesiSol #327",
+            "asset_unit": "MSOL327",
+            "asset_code": "327",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "329": {
+            "asset_id": 522146813,
+            "asset_name": "MesiSol #328",
+            "asset_unit": "MSOL328",
+            "asset_code": "328",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "330": {
+            "asset_id": 522147107,
+            "asset_name": "MesiSol #329",
+            "asset_unit": "MSOL329",
+            "asset_code": "329",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "331": {
+            "asset_id": 522147372,
+            "asset_name": "MesiSol #330",
+            "asset_unit": "MSOL330",
+            "asset_code": "330",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "332": {
+            "asset_id": 522147661,
+            "asset_name": "MesiSol #331",
+            "asset_unit": "MSOL331",
+            "asset_code": "331",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "333": {
+            "asset_id": 522147988,
+            "asset_name": "MesiSol #332",
+            "asset_unit": "MSOL332",
+            "asset_code": "332",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "334": {
+            "asset_id": 522148352,
+            "asset_name": "MesiSol #333",
+            "asset_unit": "MSOL333",
+            "asset_code": "333",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "335": {
+            "asset_id": 522148655,
+            "asset_name": "MesiSol #334",
+            "asset_unit": "MSOL334",
+            "asset_code": "334",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "336": {
+            "asset_id": 522148907,
+            "asset_name": "MesiSol #335",
+            "asset_unit": "MSOL335",
+            "asset_code": "335",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "337": {
+            "asset_id": 522149197,
+            "asset_name": "MesiSol #336",
+            "asset_unit": "MSOL336",
+            "asset_code": "336",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "338": {
+            "asset_id": 522149442,
+            "asset_name": "MesiSol #337",
+            "asset_unit": "MSOL337",
+            "asset_code": "337",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "339": {
+            "asset_id": 522149729,
+            "asset_name": "MesiSol #338",
+            "asset_unit": "MSOL338",
+            "asset_code": "338",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "340": {
+            "asset_id": 522149945,
+            "asset_name": "MesiSol #339",
+            "asset_unit": "MSOL339",
+            "asset_code": "339",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "341": {
+            "asset_id": 522150223,
+            "asset_name": "MesiSol #340",
+            "asset_unit": "MSOL340",
+            "asset_code": "340",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "342": {
+            "asset_id": 522150423,
+            "asset_name": "MesiSol #341",
+            "asset_unit": "MSOL341",
+            "asset_code": "341",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "343": {
+            "asset_id": 522150662,
+            "asset_name": "MesiSol #342",
+            "asset_unit": "MSOL342",
+            "asset_code": "342",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "344": {
+            "asset_id": 522150857,
+            "asset_name": "MesiSol #343",
+            "asset_unit": "MSOL343",
+            "asset_code": "343",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "345": {
+            "asset_id": 522151068,
+            "asset_name": "MesiSol #344",
+            "asset_unit": "MSOL344",
+            "asset_code": "344",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "346": {
+            "asset_id": 522151250,
+            "asset_name": "MesiSol #345",
+            "asset_unit": "MSOL345",
+            "asset_code": "345",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "347": {
+            "asset_id": 522151526,
+            "asset_name": "MesiSol #346",
+            "asset_unit": "MSOL346",
+            "asset_code": "346",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "348": {
+            "asset_id": 522151837,
+            "asset_name": "MesiSol #347",
+            "asset_unit": "MSOL347",
+            "asset_code": "347",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "349": {
+            "asset_id": 522152086,
+            "asset_name": "MesiSol #348",
+            "asset_unit": "MSOL348",
+            "asset_code": "348",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "350": {
+            "asset_id": 522152377,
+            "asset_name": "MesiSol #349",
+            "asset_unit": "MSOL349",
+            "asset_code": "349",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "351": {
+            "asset_id": 522152594,
+            "asset_name": "MesiSol #350",
+            "asset_unit": "MSOL350",
+            "asset_code": "350",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "352": {
+            "asset_id": 522153077,
+            "asset_name": "MesiSol #351",
+            "asset_unit": "MSOL351",
+            "asset_code": "351",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "353": {
+            "asset_id": 522153528,
+            "asset_name": "MesiSol #352",
+            "asset_unit": "MSOL352",
+            "asset_code": "352",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "354": {
+            "asset_id": 522153857,
+            "asset_name": "MesiSol #353",
+            "asset_unit": "MSOL353",
+            "asset_code": "353",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "355": {
+            "asset_id": 522154117,
+            "asset_name": "MesiSol #354",
+            "asset_unit": "MSOL354",
+            "asset_code": "354",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "356": {
+            "asset_id": 522154428,
+            "asset_name": "MesiSol #355",
+            "asset_unit": "MSOL355",
+            "asset_code": "355",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "357": {
+            "asset_id": 522154720,
+            "asset_name": "MesiSol #356",
+            "asset_unit": "MSOL356",
+            "asset_code": "356",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "358": {
+            "asset_id": 522155009,
+            "asset_name": "MesiSol #357",
+            "asset_unit": "MSOL357",
+            "asset_code": "357",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "359": {
+            "asset_id": 522155295,
+            "asset_name": "MesiSol #358",
+            "asset_unit": "MSOL358",
+            "asset_code": "358",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "360": {
+            "asset_id": 522155565,
+            "asset_name": "MesiSol #359",
+            "asset_unit": "MSOL359",
+            "asset_code": "359",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "361": {
+            "asset_id": 522155843,
+            "asset_name": "MesiSol #360",
+            "asset_unit": "MSOL360",
+            "asset_code": "360",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "362": {
+            "asset_id": 522156086,
+            "asset_name": "MesiSol #361",
+            "asset_unit": "MSOL361",
+            "asset_code": "361",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "363": {
+            "asset_id": 522156350,
+            "asset_name": "MesiSol #362",
+            "asset_unit": "MSOL362",
+            "asset_code": "362",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "364": {
+            "asset_id": 522156654,
+            "asset_name": "MesiSol #363",
+            "asset_unit": "MSOL363",
+            "asset_code": "363",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "365": {
+            "asset_id": 522156920,
+            "asset_name": "MesiSol #364",
+            "asset_unit": "MSOL364",
+            "asset_code": "364",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "366": {
+            "asset_id": 522157192,
+            "asset_name": "MesiSol #365",
+            "asset_unit": "MSOL365",
+            "asset_code": "365",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "367": {
+            "asset_id": 522157475,
+            "asset_name": "MesiSol #366",
+            "asset_unit": "MSOL366",
+            "asset_code": "366",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "368": {
+            "asset_id": 522157753,
+            "asset_name": "MesiSol #367",
+            "asset_unit": "MSOL367",
+            "asset_code": "367",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "369": {
+            "asset_id": 522158124,
+            "asset_name": "MesiSol #368",
+            "asset_unit": "MSOL368",
+            "asset_code": "368",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "370": {
+            "asset_id": 522158363,
+            "asset_name": "MesiSol #369",
+            "asset_unit": "MSOL369",
+            "asset_code": "369",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "371": {
+            "asset_id": 522158599,
+            "asset_name": "MesiSol #370",
+            "asset_unit": "MSOL370",
+            "asset_code": "370",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "372": {
+            "asset_id": 522158862,
+            "asset_name": "MesiSol #371",
+            "asset_unit": "MSOL371",
+            "asset_code": "371",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "373": {
+            "asset_id": 522159175,
+            "asset_name": "MesiSol #372",
+            "asset_unit": "MSOL372",
+            "asset_code": "372",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "374": {
+            "asset_id": 522159432,
+            "asset_name": "MesiSol #373",
+            "asset_unit": "MSOL373",
+            "asset_code": "373",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "375": {
+            "asset_id": 522159783,
+            "asset_name": "MesiSol #374",
+            "asset_unit": "MSOL374",
+            "asset_code": "374",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "376": {
+            "asset_id": 522160109,
+            "asset_name": "MesiSol #375",
+            "asset_unit": "MSOL375",
+            "asset_code": "375",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "377": {
+            "asset_id": 522160324,
+            "asset_name": "MesiSol #376",
+            "asset_unit": "MSOL376",
+            "asset_code": "376",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "378": {
+            "asset_id": 522160595,
+            "asset_name": "MesiSol #377",
+            "asset_unit": "MSOL377",
+            "asset_code": "377",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "379": {
+            "asset_id": 522160898,
+            "asset_name": "MesiSol #378",
+            "asset_unit": "MSOL378",
+            "asset_code": "378",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "380": {
+            "asset_id": 522161165,
+            "asset_name": "MesiSol #379",
+            "asset_unit": "MSOL379",
+            "asset_code": "379",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "381": {
+            "asset_id": 522161501,
+            "asset_name": "MesiSol #380",
+            "asset_unit": "MSOL380",
+            "asset_code": "380",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "382": {
+            "asset_id": 522161655,
+            "asset_name": "MesiSol #381",
+            "asset_unit": "MSOL381",
+            "asset_code": "381",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "383": {
+            "asset_id": 522161881,
+            "asset_name": "MesiSol #382",
+            "asset_unit": "MSOL382",
+            "asset_code": "382",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "384": {
+            "asset_id": 522162171,
+            "asset_name": "MesiSol #383",
+            "asset_unit": "MSOL383",
+            "asset_code": "383",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "385": {
+            "asset_id": 522162499,
+            "asset_name": "MesiSol #384",
+            "asset_unit": "MSOL384",
+            "asset_code": "384",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "386": {
+            "asset_id": 522162917,
+            "asset_name": "MesiSol #385",
+            "asset_unit": "MSOL385",
+            "asset_code": "385",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "387": {
+            "asset_id": 522163177,
+            "asset_name": "MesiSol #386",
+            "asset_unit": "MSOL386",
+            "asset_code": "386",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "388": {
+            "asset_id": 522163462,
+            "asset_name": "MesiSol #387",
+            "asset_unit": "MSOL387",
+            "asset_code": "387",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "389": {
+            "asset_id": 522163716,
+            "asset_name": "MesiSol #388",
+            "asset_unit": "MSOL388",
+            "asset_code": "388",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "390": {
+            "asset_id": 522163988,
+            "asset_name": "MesiSol #389",
+            "asset_unit": "MSOL389",
+            "asset_code": "389",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "391": {
+            "asset_id": 522164223,
+            "asset_name": "MesiSol #390",
+            "asset_unit": "MSOL390",
+            "asset_code": "390",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "392": {
+            "asset_id": 522164607,
+            "asset_name": "MesiSol #391",
+            "asset_unit": "MSOL391",
+            "asset_code": "391",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "393": {
+            "asset_id": 522164931,
+            "asset_name": "MesiSol #392",
+            "asset_unit": "MSOL392",
+            "asset_code": "392",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "394": {
+            "asset_id": 522165199,
+            "asset_name": "MesiSol #393",
+            "asset_unit": "MSOL393",
+            "asset_code": "393",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "395": {
+            "asset_id": 522165480,
+            "asset_name": "MesiSol #394",
+            "asset_unit": "MSOL394",
+            "asset_code": "394",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "396": {
+            "asset_id": 522165753,
+            "asset_name": "MesiSol #395",
+            "asset_unit": "MSOL395",
+            "asset_code": "395",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "397": {
+            "asset_id": 522166006,
+            "asset_name": "MesiSol #396",
+            "asset_unit": "MSOL396",
+            "asset_code": "396",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "398": {
+            "asset_id": 522166329,
+            "asset_name": "MesiSol #397",
+            "asset_unit": "MSOL397",
+            "asset_code": "397",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "399": {
+            "asset_id": 522166595,
+            "asset_name": "MesiSol #398",
+            "asset_unit": "MSOL398",
+            "asset_code": "398",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "400": {
+            "asset_id": 522166882,
+            "asset_name": "MesiSol #399",
+            "asset_unit": "MSOL399",
+            "asset_code": "399",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "401": {
+            "asset_id": 522167178,
+            "asset_name": "MesiSol #400",
+            "asset_unit": "MSOL400",
+            "asset_code": "400",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "402": {
+            "asset_id": 522167487,
+            "asset_name": "MesiSol #401",
+            "asset_unit": "MSOL401",
+            "asset_code": "401",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "403": {
+            "asset_id": 522167723,
+            "asset_name": "MesiSol #402",
+            "asset_unit": "MSOL402",
+            "asset_code": "402",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "404": {
+            "asset_id": 522167921,
+            "asset_name": "MesiSol #403",
+            "asset_unit": "MSOL403",
+            "asset_code": "403",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "405": {
+            "asset_id": 522168180,
+            "asset_name": "MesiSol #404",
+            "asset_unit": "MSOL404",
+            "asset_code": "404",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "406": {
+            "asset_id": 522168383,
+            "asset_name": "MesiSol #405",
+            "asset_unit": "MSOL405",
+            "asset_code": "405",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "407": {
+            "asset_id": 522168611,
+            "asset_name": "MesiSol #406",
+            "asset_unit": "MSOL406",
+            "asset_code": "406",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "408": {
+            "asset_id": 522168839,
+            "asset_name": "MesiSol #407",
+            "asset_unit": "MSOL407",
+            "asset_code": "407",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "409": {
+            "asset_id": 522169075,
+            "asset_name": "MesiSol #408",
+            "asset_unit": "MSOL408",
+            "asset_code": "408",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "410": {
+            "asset_id": 522169291,
+            "asset_name": "MesiSol #409",
+            "asset_unit": "MSOL409",
+            "asset_code": "409",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "411": {
+            "asset_id": 522169448,
+            "asset_name": "MesiSol #410",
+            "asset_unit": "MSOL410",
+            "asset_code": "410",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "412": {
+            "asset_id": 522169735,
+            "asset_name": "MesiSol #411",
+            "asset_unit": "MSOL411",
+            "asset_code": "411",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "413": {
+            "asset_id": 522170031,
+            "asset_name": "MesiSol #412",
+            "asset_unit": "MSOL412",
+            "asset_code": "412",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "414": {
+            "asset_id": 522170319,
+            "asset_name": "MesiSol #413",
+            "asset_unit": "MSOL413",
+            "asset_code": "413",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "415": {
+            "asset_id": 522170609,
+            "asset_name": "MesiSol #414",
+            "asset_unit": "MSOL414",
+            "asset_code": "414",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "416": {
+            "asset_id": 522170835,
+            "asset_name": "MesiSol #415",
+            "asset_unit": "MSOL415",
+            "asset_code": "415",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "417": {
+            "asset_id": 522171113,
+            "asset_name": "MesiSol #416",
+            "asset_unit": "MSOL416",
+            "asset_code": "416",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "418": {
+            "asset_id": 522171462,
+            "asset_name": "MesiSol #417",
+            "asset_unit": "MSOL417",
+            "asset_code": "417",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "419": {
+            "asset_id": 522171751,
+            "asset_name": "MesiSol #418",
+            "asset_unit": "MSOL418",
+            "asset_code": "418",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "420": {
+            "asset_id": 522171957,
+            "asset_name": "MesiSol #419",
+            "asset_unit": "MSOL419",
+            "asset_code": "419",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "421": {
+            "asset_id": 522172157,
+            "asset_name": "MesiSol #420",
+            "asset_unit": "MSOL420",
+            "asset_code": "420",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "422": {
+            "asset_id": 522172411,
+            "asset_name": "MesiSol #421",
+            "asset_unit": "MSOL421",
+            "asset_code": "421",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "423": {
+            "asset_id": 522172649,
+            "asset_name": "MesiSol #422",
+            "asset_unit": "MSOL422",
+            "asset_code": "422",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "424": {
+            "asset_id": 522172966,
+            "asset_name": "MesiSol #423",
+            "asset_unit": "MSOL423",
+            "asset_code": "423",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "425": {
+            "asset_id": 522173252,
+            "asset_name": "MesiSol #424",
+            "asset_unit": "MSOL424",
+            "asset_code": "424",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "426": {
+            "asset_id": 522173490,
+            "asset_name": "MesiSol #425",
+            "asset_unit": "MSOL425",
+            "asset_code": "425",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "427": {
+            "asset_id": 522173724,
+            "asset_name": "MesiSol #426",
+            "asset_unit": "MSOL426",
+            "asset_code": "426",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "428": {
+            "asset_id": 522173970,
+            "asset_name": "MesiSol #427",
+            "asset_unit": "MSOL427",
+            "asset_code": "427",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "429": {
+            "asset_id": 522174197,
+            "asset_name": "MesiSol #428",
+            "asset_unit": "MSOL428",
+            "asset_code": "428",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "430": {
+            "asset_id": 522174394,
+            "asset_name": "MesiSol #429",
+            "asset_unit": "MSOL429",
+            "asset_code": "429",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "431": {
+            "asset_id": 522174640,
+            "asset_name": "MesiSol #430",
+            "asset_unit": "MSOL430",
+            "asset_code": "430",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "432": {
+            "asset_id": 522174893,
+            "asset_name": "MesiSol #431",
+            "asset_unit": "MSOL431",
+            "asset_code": "431",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "433": {
+            "asset_id": 522175147,
+            "asset_name": "MesiSol #432",
+            "asset_unit": "MSOL432",
+            "asset_code": "432",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "434": {
+            "asset_id": 522175438,
+            "asset_name": "MesiSol #433",
+            "asset_unit": "MSOL433",
+            "asset_code": "433",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "435": {
+            "asset_id": 522175752,
+            "asset_name": "MesiSol #434",
+            "asset_unit": "MSOL434",
+            "asset_code": "434",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "436": {
+            "asset_id": 522175982,
+            "asset_name": "MesiSol #435",
+            "asset_unit": "MSOL435",
+            "asset_code": "435",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "437": {
+            "asset_id": 522176357,
+            "asset_name": "MesiSol #436",
+            "asset_unit": "MSOL436",
+            "asset_code": "436",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "438": {
+            "asset_id": 522176658,
+            "asset_name": "MesiSol #437",
+            "asset_unit": "MSOL437",
+            "asset_code": "437",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "439": {
+            "asset_id": 522176924,
+            "asset_name": "MesiSol #438",
+            "asset_unit": "MSOL438",
+            "asset_code": "438",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "440": {
+            "asset_id": 522177186,
+            "asset_name": "MesiSol #439",
+            "asset_unit": "MSOL439",
+            "asset_code": "439",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "441": {
+            "asset_id": 522177479,
+            "asset_name": "MesiSol #440",
+            "asset_unit": "MSOL440",
+            "asset_code": "440",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "442": {
+            "asset_id": 522177733,
+            "asset_name": "MesiSol #441",
+            "asset_unit": "MSOL441",
+            "asset_code": "441",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "443": {
+            "asset_id": 522177994,
+            "asset_name": "MesiSol #442",
+            "asset_unit": "MSOL442",
+            "asset_code": "442",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "444": {
+            "asset_id": 522178233,
+            "asset_name": "MesiSol #443",
+            "asset_unit": "MSOL443",
+            "asset_code": "443",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "445": {
+            "asset_id": 522178522,
+            "asset_name": "MesiSol #444",
+            "asset_unit": "MSOL444",
+            "asset_code": "444",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "446": {
+            "asset_id": 522178790,
+            "asset_name": "MesiSol #445",
+            "asset_unit": "MSOL445",
+            "asset_code": "445",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "447": {
+            "asset_id": 522179090,
+            "asset_name": "MesiSol #446",
+            "asset_unit": "MSOL446",
+            "asset_code": "446",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "448": {
+            "asset_id": 522179371,
+            "asset_name": "MesiSol #447",
+            "asset_unit": "MSOL447",
+            "asset_code": "447",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "449": {
+            "asset_id": 522179663,
+            "asset_name": "MesiSol #448",
+            "asset_unit": "MSOL448",
+            "asset_code": "448",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "450": {
+            "asset_id": 522179920,
+            "asset_name": "MesiSol #449",
+            "asset_unit": "MSOL449",
+            "asset_code": "449",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "451": {
+            "asset_id": 522180279,
+            "asset_name": "MesiSol #450",
+            "asset_unit": "MSOL450",
+            "asset_code": "450",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "452": {
+            "asset_id": 522180571,
+            "asset_name": "MesiSol #451",
+            "asset_unit": "MSOL451",
+            "asset_code": "451",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "453": {
+            "asset_id": 522181031,
+            "asset_name": "MesiSol #452",
+            "asset_unit": "MSOL452",
+            "asset_code": "452",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "454": {
+            "asset_id": 522181613,
+            "asset_name": "MesiSol #453",
+            "asset_unit": "MSOL453",
+            "asset_code": "453",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "455": {
+            "asset_id": 522182247,
+            "asset_name": "MesiSol #454",
+            "asset_unit": "MSOL454",
+            "asset_code": "454",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "456": {
+            "asset_id": 522182638,
+            "asset_name": "MesiSol #455",
+            "asset_unit": "MSOL455",
+            "asset_code": "455",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "457": {
+            "asset_id": 522183114,
+            "asset_name": "MesiSol #456",
+            "asset_unit": "MSOL456",
+            "asset_code": "456",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "458": {
+            "asset_id": 522183586,
+            "asset_name": "MesiSol #457",
+            "asset_unit": "MSOL457",
+            "asset_code": "457",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "459": {
+            "asset_id": 522184119,
+            "asset_name": "MesiSol #458",
+            "asset_unit": "MSOL458",
+            "asset_code": "458",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "460": {
+            "asset_id": 522184388,
+            "asset_name": "MesiSol #459",
+            "asset_unit": "MSOL459",
+            "asset_code": "459",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "461": {
+            "asset_id": 522184585,
+            "asset_name": "MesiSol #460",
+            "asset_unit": "MSOL460",
+            "asset_code": "460",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "462": {
+            "asset_id": 522184891,
+            "asset_name": "MesiSol #461",
+            "asset_unit": "MSOL461",
+            "asset_code": "461",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "463": {
+            "asset_id": 522185156,
+            "asset_name": "MesiSol #462",
+            "asset_unit": "MSOL462",
+            "asset_code": "462",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "464": {
+            "asset_id": 522185418,
+            "asset_name": "MesiSol #463",
+            "asset_unit": "MSOL463",
+            "asset_code": "463",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "465": {
+            "asset_id": 522185611,
+            "asset_name": "MesiSol #464",
+            "asset_unit": "MSOL464",
+            "asset_code": "464",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "466": {
+            "asset_id": 522185748,
+            "asset_name": "MesiSol #465",
+            "asset_unit": "MSOL465",
+            "asset_code": "465",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "467": {
+            "asset_id": 522185916,
+            "asset_name": "MesiSol #466",
+            "asset_unit": "MSOL466",
+            "asset_code": "466",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "468": {
+            "asset_id": 522186139,
+            "asset_name": "MesiSol #467",
+            "asset_unit": "MSOL467",
+            "asset_code": "467",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "469": {
+            "asset_id": 522186341,
+            "asset_name": "MesiSol #468",
+            "asset_unit": "MSOL468",
+            "asset_code": "468",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "470": {
+            "asset_id": 522186537,
+            "asset_name": "MesiSol #469",
+            "asset_unit": "MSOL469",
+            "asset_code": "469",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "471": {
+            "asset_id": 522186763,
+            "asset_name": "MesiSol #470",
+            "asset_unit": "MSOL470",
+            "asset_code": "470",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "472": {
+            "asset_id": 522186960,
+            "asset_name": "MesiSol #471",
+            "asset_unit": "MSOL471",
+            "asset_code": "471",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "473": {
+            "asset_id": 522187186,
+            "asset_name": "MesiSol #472",
+            "asset_unit": "MSOL472",
+            "asset_code": "472",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "474": {
+            "asset_id": 522187418,
+            "asset_name": "MesiSol #473",
+            "asset_unit": "MSOL473",
+            "asset_code": "473",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "475": {
+            "asset_id": 522187644,
+            "asset_name": "MesiSol #474",
+            "asset_unit": "MSOL474",
+            "asset_code": "474",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "476": {
+            "asset_id": 522187856,
+            "asset_name": "MesiSol #475",
+            "asset_unit": "MSOL475",
+            "asset_code": "475",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "477": {
+            "asset_id": 522188073,
+            "asset_name": "MesiSol #476",
+            "asset_unit": "MSOL476",
+            "asset_code": "476",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "478": {
+            "asset_id": 522188230,
+            "asset_name": "MesiSol #477",
+            "asset_unit": "MSOL477",
+            "asset_code": "477",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "479": {
+            "asset_id": 522188389,
+            "asset_name": "MesiSol #478",
+            "asset_unit": "MSOL478",
+            "asset_code": "478",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "480": {
+            "asset_id": 522188580,
+            "asset_name": "MesiSol #479",
+            "asset_unit": "MSOL479",
+            "asset_code": "479",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "481": {
+            "asset_id": 522188778,
+            "asset_name": "MesiSol #480",
+            "asset_unit": "MSOL480",
+            "asset_code": "480",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "482": {
+            "asset_id": 522188983,
+            "asset_name": "MesiSol #481",
+            "asset_unit": "MSOL481",
+            "asset_code": "481",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "483": {
+            "asset_id": 522189147,
+            "asset_name": "MesiSol #482",
+            "asset_unit": "MSOL482",
+            "asset_code": "482",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "484": {
+            "asset_id": 522189308,
+            "asset_name": "MesiSol #483",
+            "asset_unit": "MSOL483",
+            "asset_code": "483",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "485": {
+            "asset_id": 522189482,
+            "asset_name": "MesiSol #484",
+            "asset_unit": "MSOL484",
+            "asset_code": "484",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "486": {
+            "asset_id": 522189638,
+            "asset_name": "MesiSol #485",
+            "asset_unit": "MSOL485",
+            "asset_code": "485",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "487": {
+            "asset_id": 522189825,
+            "asset_name": "MesiSol #486",
+            "asset_unit": "MSOL486",
+            "asset_code": "486",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "488": {
+            "asset_id": 522190046,
+            "asset_name": "MesiSol #487",
+            "asset_unit": "MSOL487",
+            "asset_code": "487",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "489": {
+            "asset_id": 522190160,
+            "asset_name": "MesiSol #488",
+            "asset_unit": "MSOL488",
+            "asset_code": "488",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "490": {
+            "asset_id": 522190268,
+            "asset_name": "MesiSol #489",
+            "asset_unit": "MSOL489",
+            "asset_code": "489",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "491": {
+            "asset_id": 522190387,
+            "asset_name": "MesiSol #490",
+            "asset_unit": "MSOL490",
+            "asset_code": "490",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "492": {
+            "asset_id": 522190496,
+            "asset_name": "MesiSol #491",
+            "asset_unit": "MSOL491",
+            "asset_code": "491",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "493": {
+            "asset_id": 522190683,
+            "asset_name": "MesiSol #492",
+            "asset_unit": "MSOL492",
+            "asset_code": "492",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "494": {
+            "asset_id": 522190848,
+            "asset_name": "MesiSol #493",
+            "asset_unit": "MSOL493",
+            "asset_code": "493",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "495": {
+            "asset_id": 522191038,
+            "asset_name": "MesiSol #494",
+            "asset_unit": "MSOL494",
+            "asset_code": "494",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "496": {
+            "asset_id": 522191218,
+            "asset_name": "MesiSol #495",
+            "asset_unit": "MSOL495",
+            "asset_code": "495",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "497": {
+            "asset_id": 522191328,
+            "asset_name": "MesiSol #496",
+            "asset_unit": "MSOL496",
+            "asset_code": "496",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "498": {
+            "asset_id": 522191452,
+            "asset_name": "MesiSol #497",
+            "asset_unit": "MSOL497",
+            "asset_code": "497",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "499": {
+            "asset_id": 522191629,
+            "asset_name": "MesiSol #498",
+            "asset_unit": "MSOL498",
+            "asset_code": "498",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "500": {
+            "asset_id": 522191833,
+            "asset_name": "MesiSol #499",
+            "asset_unit": "MSOL499",
+            "asset_code": "499",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "501": {
+            "asset_id": 522191960,
+            "asset_name": "MesiSol #500",
+            "asset_unit": "MSOL500",
+            "asset_code": "500",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "502": {
+            "asset_id": 522192111,
+            "asset_name": "MesiSol #501",
+            "asset_unit": "MSOL501",
+            "asset_code": "501",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "503": {
+            "asset_id": 522192252,
+            "asset_name": "MesiSol #502",
+            "asset_unit": "MSOL502",
+            "asset_code": "502",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "504": {
+            "asset_id": 522192381,
+            "asset_name": "MesiSol #503",
+            "asset_unit": "MSOL503",
+            "asset_code": "503",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "505": {
+            "asset_id": 522192615,
+            "asset_name": "MesiSol #504",
+            "asset_unit": "MSOL504",
+            "asset_code": "504",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "506": {
+            "asset_id": 522192798,
+            "asset_name": "MesiSol #505",
+            "asset_unit": "MSOL505",
+            "asset_code": "505",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "507": {
+            "asset_id": 522193058,
+            "asset_name": "MesiSol #506",
+            "asset_unit": "MSOL506",
+            "asset_code": "506",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "508": {
+            "asset_id": 522193196,
+            "asset_name": "MesiSol #507",
+            "asset_unit": "MSOL507",
+            "asset_code": "507",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "509": {
+            "asset_id": 522193307,
+            "asset_name": "MesiSol #508",
+            "asset_unit": "MSOL508",
+            "asset_code": "508",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "510": {
+            "asset_id": 522193453,
+            "asset_name": "MesiSol #509",
+            "asset_unit": "MSOL509",
+            "asset_code": "509",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "511": {
+            "asset_id": 522193655,
+            "asset_name": "MesiSol #510",
+            "asset_unit": "MSOL510",
+            "asset_code": "510",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "512": {
+            "asset_id": 522193850,
+            "asset_name": "MesiSol #511",
+            "asset_unit": "MSOL511",
+            "asset_code": "511",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "513": {
+            "asset_id": 522194072,
+            "asset_name": "MesiSol #512",
+            "asset_unit": "MSOL512",
+            "asset_code": "512",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "514": {
+            "asset_id": 522194187,
+            "asset_name": "MesiSol #513",
+            "asset_unit": "MSOL513",
+            "asset_code": "513",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "515": {
+            "asset_id": 522194345,
+            "asset_name": "MesiSol #514",
+            "asset_unit": "MSOL514",
+            "asset_code": "514",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "516": {
+            "asset_id": 522194636,
+            "asset_name": "MesiSol #515",
+            "asset_unit": "MSOL515",
+            "asset_code": "515",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "517": {
+            "asset_id": 522194834,
+            "asset_name": "MesiSol #516",
+            "asset_unit": "MSOL516",
+            "asset_code": "516",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "518": {
+            "asset_id": 522195000,
+            "asset_name": "MesiSol #517",
+            "asset_unit": "MSOL517",
+            "asset_code": "517",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "519": {
+            "asset_id": 522195177,
+            "asset_name": "MesiSol #518",
+            "asset_unit": "MSOL518",
+            "asset_code": "518",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "520": {
+            "asset_id": 522195364,
+            "asset_name": "MesiSol #519",
+            "asset_unit": "MSOL519",
+            "asset_code": "519",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "521": {
+            "asset_id": 522195621,
+            "asset_name": "MesiSol #520",
+            "asset_unit": "MSOL520",
+            "asset_code": "520",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "522": {
+            "asset_id": 522195776,
+            "asset_name": "MesiSol #521",
+            "asset_unit": "MSOL521",
+            "asset_code": "521",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "523": {
+            "asset_id": 522195948,
+            "asset_name": "MesiSol #522",
+            "asset_unit": "MSOL522",
+            "asset_code": "522",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "524": {
+            "asset_id": 522196147,
+            "asset_name": "MesiSol #523",
+            "asset_unit": "MSOL523",
+            "asset_code": "523",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "525": {
+            "asset_id": 522196311,
+            "asset_name": "MesiSol #524",
+            "asset_unit": "MSOL524",
+            "asset_code": "524",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "526": {
+            "asset_id": 522196508,
+            "asset_name": "MesiSol #525",
+            "asset_unit": "MSOL525",
+            "asset_code": "525",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "527": {
+            "asset_id": 522196733,
+            "asset_name": "MesiSol #526",
+            "asset_unit": "MSOL526",
+            "asset_code": "526",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "528": {
+            "asset_id": 522196986,
+            "asset_name": "MesiSol #527",
+            "asset_unit": "MSOL527",
+            "asset_code": "527",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "529": {
+            "asset_id": 522197243,
+            "asset_name": "MesiSol #528",
+            "asset_unit": "MSOL528",
+            "asset_code": "528",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "530": {
+            "asset_id": 522197508,
+            "asset_name": "MesiSol #529",
+            "asset_unit": "MSOL529",
+            "asset_code": "529",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "531": {
+            "asset_id": 522197645,
+            "asset_name": "MesiSol #530",
+            "asset_unit": "MSOL530",
+            "asset_code": "530",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "532": {
+            "asset_id": 522197830,
+            "asset_name": "MesiSol #531",
+            "asset_unit": "MSOL531",
+            "asset_code": "531",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "533": {
+            "asset_id": 522198020,
+            "asset_name": "MesiSol #532",
+            "asset_unit": "MSOL532",
+            "asset_code": "532",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "534": {
+            "asset_id": 522198268,
+            "asset_name": "MesiSol #533",
+            "asset_unit": "MSOL533",
+            "asset_code": "533",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "535": {
+            "asset_id": 522198418,
+            "asset_name": "MesiSol #534",
+            "asset_unit": "MSOL534",
+            "asset_code": "534",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "536": {
+            "asset_id": 522198565,
+            "asset_name": "MesiSol #535",
+            "asset_unit": "MSOL535",
+            "asset_code": "535",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "537": {
+            "asset_id": 522198672,
+            "asset_name": "MesiSol #536",
+            "asset_unit": "MSOL536",
+            "asset_code": "536",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "538": {
+            "asset_id": 522198800,
+            "asset_name": "MesiSol #537",
+            "asset_unit": "MSOL537",
+            "asset_code": "537",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "539": {
+            "asset_id": 522198958,
+            "asset_name": "MesiSol #538",
+            "asset_unit": "MSOL538",
+            "asset_code": "538",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "540": {
+            "asset_id": 522199115,
+            "asset_name": "MesiSol #539",
+            "asset_unit": "MSOL539",
+            "asset_code": "539",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "541": {
+            "asset_id": 522199242,
+            "asset_name": "MesiSol #540",
+            "asset_unit": "MSOL540",
+            "asset_code": "540",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "542": {
+            "asset_id": 522199369,
+            "asset_name": "MesiSol #541",
+            "asset_unit": "MSOL541",
+            "asset_code": "541",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "543": {
+            "asset_id": 522199467,
+            "asset_name": "MesiSol #542",
+            "asset_unit": "MSOL542",
+            "asset_code": "542",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "544": {
+            "asset_id": 522199605,
+            "asset_name": "MesiSol #543",
+            "asset_unit": "MSOL543",
+            "asset_code": "543",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "545": {
+            "asset_id": 522199738,
+            "asset_name": "MesiSol #544",
+            "asset_unit": "MSOL544",
+            "asset_code": "544",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "546": {
+            "asset_id": 522199867,
+            "asset_name": "MesiSol #545",
+            "asset_unit": "MSOL545",
+            "asset_code": "545",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "547": {
+            "asset_id": 522200034,
+            "asset_name": "MesiSol #546",
+            "asset_unit": "MSOL546",
+            "asset_code": "546",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "548": {
+            "asset_id": 522200225,
+            "asset_name": "MesiSol #547",
+            "asset_unit": "MSOL547",
+            "asset_code": "547",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "549": {
+            "asset_id": 522200431,
+            "asset_name": "MesiSol #548",
+            "asset_unit": "MSOL548",
+            "asset_code": "548",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "550": {
+            "asset_id": 522200654,
+            "asset_name": "MesiSol #549",
+            "asset_unit": "MSOL549",
+            "asset_code": "549",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "551": {
+            "asset_id": 522200781,
+            "asset_name": "MesiSol #550",
+            "asset_unit": "MSOL550",
+            "asset_code": "550",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "552": {
+            "asset_id": 522200954,
+            "asset_name": "MesiSol #551",
+            "asset_unit": "MSOL551",
+            "asset_code": "551",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "553": {
+            "asset_id": 522201148,
+            "asset_name": "MesiSol #552",
+            "asset_unit": "MSOL552",
+            "asset_code": "552",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "554": {
+            "asset_id": 522201336,
+            "asset_name": "MesiSol #553",
+            "asset_unit": "MSOL553",
+            "asset_code": "553",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "555": {
+            "asset_id": 522201522,
+            "asset_name": "MesiSol #554",
+            "asset_unit": "MSOL554",
+            "asset_code": "554",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "556": {
+            "asset_id": 522201711,
+            "asset_name": "MesiSol #555",
+            "asset_unit": "MSOL555",
+            "asset_code": "555",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "557": {
+            "asset_id": 522201859,
+            "asset_name": "MesiSol #556",
+            "asset_unit": "MSOL556",
+            "asset_code": "556",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "558": {
+            "asset_id": 522201996,
+            "asset_name": "MesiSol #557",
+            "asset_unit": "MSOL557",
+            "asset_code": "557",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "559": {
+            "asset_id": 522202163,
+            "asset_name": "MesiSol #558",
+            "asset_unit": "MSOL558",
+            "asset_code": "558",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "560": {
+            "asset_id": 522202321,
+            "asset_name": "MesiSol #559",
+            "asset_unit": "MSOL559",
+            "asset_code": "559",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "561": {
+            "asset_id": 522202469,
+            "asset_name": "MesiSol #560",
+            "asset_unit": "MSOL560",
+            "asset_code": "560",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "562": {
+            "asset_id": 522202574,
+            "asset_name": "MesiSol #561",
+            "asset_unit": "MSOL561",
+            "asset_code": "561",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "563": {
+            "asset_id": 522206112,
+            "asset_name": "MesiSol #562",
+            "asset_unit": "MSOL562",
+            "asset_code": "562",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "564": {
+            "asset_id": 522206251,
+            "asset_name": "MesiSol #563",
+            "asset_unit": "MSOL563",
+            "asset_code": "563",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "565": {
+            "asset_id": 522206408,
+            "asset_name": "MesiSol #564",
+            "asset_unit": "MSOL564",
+            "asset_code": "564",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "566": {
+            "asset_id": 522206551,
+            "asset_name": "MesiSol #565",
+            "asset_unit": "MSOL565",
+            "asset_code": "565",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "567": {
+            "asset_id": 522206743,
+            "asset_name": "MesiSol #566",
+            "asset_unit": "MSOL566",
+            "asset_code": "566",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "568": {
+            "asset_id": 522206911,
+            "asset_name": "MesiSol #567",
+            "asset_unit": "MSOL567",
+            "asset_code": "567",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "569": {
+            "asset_id": 522207056,
+            "asset_name": "MesiSol #568",
+            "asset_unit": "MSOL568",
+            "asset_code": "568",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "570": {
+            "asset_id": 522207237,
+            "asset_name": "MesiSol #569",
+            "asset_unit": "MSOL569",
+            "asset_code": "569",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "571": {
+            "asset_id": 522207414,
+            "asset_name": "MesiSol #570",
+            "asset_unit": "MSOL570",
+            "asset_code": "570",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "572": {
+            "asset_id": 522207607,
+            "asset_name": "MesiSol #571",
+            "asset_unit": "MSOL571",
+            "asset_code": "571",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "573": {
+            "asset_id": 522207715,
+            "asset_name": "MesiSol #572",
+            "asset_unit": "MSOL572",
+            "asset_code": "572",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "574": {
+            "asset_id": 522207873,
+            "asset_name": "MesiSol #573",
+            "asset_unit": "MSOL573",
+            "asset_code": "573",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "575": {
+            "asset_id": 522208029,
+            "asset_name": "MesiSol #574",
+            "asset_unit": "MSOL574",
+            "asset_code": "574",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "576": {
+            "asset_id": 522208263,
+            "asset_name": "MesiSol #575",
+            "asset_unit": "MSOL575",
+            "asset_code": "575",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "577": {
+            "asset_id": 522208455,
+            "asset_name": "MesiSol #576",
+            "asset_unit": "MSOL576",
+            "asset_code": "576",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "578": {
+            "asset_id": 522208611,
+            "asset_name": "MesiSol #577",
+            "asset_unit": "MSOL577",
+            "asset_code": "577",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "579": {
+            "asset_id": 522208879,
+            "asset_name": "MesiSol #578",
+            "asset_unit": "MSOL578",
+            "asset_code": "578",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "580": {
+            "asset_id": 522209025,
+            "asset_name": "MesiSol #579",
+            "asset_unit": "MSOL579",
+            "asset_code": "579",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "581": {
+            "asset_id": 522209274,
+            "asset_name": "MesiSol #580",
+            "asset_unit": "MSOL580",
+            "asset_code": "580",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "582": {
+            "asset_id": 522209395,
+            "asset_name": "MesiSol #581",
+            "asset_unit": "MSOL581",
+            "asset_code": "581",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "583": {
+            "asset_id": 522209496,
+            "asset_name": "MesiSol #582",
+            "asset_unit": "MSOL582",
+            "asset_code": "582",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "584": {
+            "asset_id": 522209672,
+            "asset_name": "MesiSol #583",
+            "asset_unit": "MSOL583",
+            "asset_code": "583",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "585": {
+            "asset_id": 522209827,
+            "asset_name": "MesiSol #584",
+            "asset_unit": "MSOL584",
+            "asset_code": "584",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "586": {
+            "asset_id": 522210051,
+            "asset_name": "MesiSol #585",
+            "asset_unit": "MSOL585",
+            "asset_code": "585",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "587": {
+            "asset_id": 522210218,
+            "asset_name": "MesiSol #586",
+            "asset_unit": "MSOL586",
+            "asset_code": "586",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "588": {
+            "asset_id": 522210405,
+            "asset_name": "MesiSol #587",
+            "asset_unit": "MSOL587",
+            "asset_code": "587",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "589": {
+            "asset_id": 522210663,
+            "asset_name": "MesiSol #588",
+            "asset_unit": "MSOL588",
+            "asset_code": "588",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "590": {
+            "asset_id": 522210841,
+            "asset_name": "MesiSol #589",
+            "asset_unit": "MSOL589",
+            "asset_code": "589",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "591": {
+            "asset_id": 522211034,
+            "asset_name": "MesiSol #590",
+            "asset_unit": "MSOL590",
+            "asset_code": "590",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "592": {
+            "asset_id": 522211220,
+            "asset_name": "MesiSol #591",
+            "asset_unit": "MSOL591",
+            "asset_code": "591",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "593": {
+            "asset_id": 522211349,
+            "asset_name": "MesiSol #592",
+            "asset_unit": "MSOL592",
+            "asset_code": "592",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "594": {
+            "asset_id": 522211617,
+            "asset_name": "MesiSol #593",
+            "asset_unit": "MSOL593",
+            "asset_code": "593",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "595": {
+            "asset_id": 522211761,
+            "asset_name": "MesiSol #594",
+            "asset_unit": "MSOL594",
+            "asset_code": "594",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "596": {
+            "asset_id": 522211921,
+            "asset_name": "MesiSol #595",
+            "asset_unit": "MSOL595",
+            "asset_code": "595",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "597": {
+            "asset_id": 522212087,
+            "asset_name": "MesiSol #596",
+            "asset_unit": "MSOL596",
+            "asset_code": "596",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "598": {
+            "asset_id": 522212236,
+            "asset_name": "MesiSol #597",
+            "asset_unit": "MSOL597",
+            "asset_code": "597",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "599": {
+            "asset_id": 522212412,
+            "asset_name": "MesiSol #598",
+            "asset_unit": "MSOL598",
+            "asset_code": "598",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "600": {
+            "asset_id": 522212660,
+            "asset_name": "MesiSol #599",
+            "asset_unit": "MSOL599",
+            "asset_code": "599",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "601": {
+            "asset_id": 522212935,
+            "asset_name": "MesiSol #600",
+            "asset_unit": "MSOL600",
+            "asset_code": "600",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "602": {
+            "asset_id": 522213085,
+            "asset_name": "MesiSol #601",
+            "asset_unit": "MSOL601",
+            "asset_code": "601",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "603": {
+            "asset_id": 522213207,
+            "asset_name": "MesiSol #602",
+            "asset_unit": "MSOL602",
+            "asset_code": "602",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "604": {
+            "asset_id": 522213372,
+            "asset_name": "MesiSol #603",
+            "asset_unit": "MSOL603",
+            "asset_code": "603",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "605": {
+            "asset_id": 522213567,
+            "asset_name": "MesiSol #604",
+            "asset_unit": "MSOL604",
+            "asset_code": "604",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "606": {
+            "asset_id": 522213703,
+            "asset_name": "MesiSol #605",
+            "asset_unit": "MSOL605",
+            "asset_code": "605",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "607": {
+            "asset_id": 522213848,
+            "asset_name": "MesiSol #606",
+            "asset_unit": "MSOL606",
+            "asset_code": "606",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "608": {
+            "asset_id": 522213993,
+            "asset_name": "MesiSol #607",
+            "asset_unit": "MSOL607",
+            "asset_code": "607",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "609": {
+            "asset_id": 522214141,
+            "asset_name": "MesiSol #608",
+            "asset_unit": "MSOL608",
+            "asset_code": "608",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "610": {
+            "asset_id": 522214310,
+            "asset_name": "MesiSol #609",
+            "asset_unit": "MSOL609",
+            "asset_code": "609",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "611": {
+            "asset_id": 522214470,
+            "asset_name": "MesiSol #610",
+            "asset_unit": "MSOL610",
+            "asset_code": "610",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "612": {
+            "asset_id": 522214643,
+            "asset_name": "MesiSol #611",
+            "asset_unit": "MSOL611",
+            "asset_code": "611",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "613": {
+            "asset_id": 522214784,
+            "asset_name": "MesiSol #612",
+            "asset_unit": "MSOL612",
+            "asset_code": "612",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "614": {
+            "asset_id": 522214936,
+            "asset_name": "MesiSol #613",
+            "asset_unit": "MSOL613",
+            "asset_code": "613",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "615": {
+            "asset_id": 522215062,
+            "asset_name": "MesiSol #614",
+            "asset_unit": "MSOL614",
+            "asset_code": "614",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "616": {
+            "asset_id": 522215197,
+            "asset_name": "MesiSol #615",
+            "asset_unit": "MSOL615",
+            "asset_code": "615",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "617": {
+            "asset_id": 522215323,
+            "asset_name": "MesiSol #616",
+            "asset_unit": "MSOL616",
+            "asset_code": "616",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "618": {
+            "asset_id": 522215489,
+            "asset_name": "MesiSol #617",
+            "asset_unit": "MSOL617",
+            "asset_code": "617",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "619": {
+            "asset_id": 522215625,
+            "asset_name": "MesiSol #618",
+            "asset_unit": "MSOL618",
+            "asset_code": "618",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "620": {
+            "asset_id": 522215816,
+            "asset_name": "MesiSol #619",
+            "asset_unit": "MSOL619",
+            "asset_code": "619",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "621": {
+            "asset_id": 522216029,
+            "asset_name": "MesiSol #620",
+            "asset_unit": "MSOL620",
+            "asset_code": "620",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "622": {
+            "asset_id": 522216209,
+            "asset_name": "MesiSol #621",
+            "asset_unit": "MSOL621",
+            "asset_code": "621",
+            "used_in_shuffle": false,
+            "owned": true
+        },
+        "623": {
+            "asset_id": 522216423,
+            "asset_name": "MesiSol #622",
+            "asset_unit": "MSOL622",
+            "asset_code": "622",
+            "used_in_shuffle": false,
+            "owned": true
+        }
+    }
+}

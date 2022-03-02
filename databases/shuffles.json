@@ -1,0 +1,35 @@
+{
+    "_default": {
+        "1": {
+            "id": 943741247724597299,
+            "collection": "MesiSols",
+            "available": "1",
+            "remaining": 0,
+            "price": "5",
+            "shuffle_type": "Instant",
+            "assets": {
+                "asset_id": 522078971,
+                "asset_name": "MesiSol #0",
+                "asset_unit": "MSOL0",
+                "asset_code": "0",
+                "used_in_shuffle": true,
+                "owned": true,
+                "assigned": true
+            },
+            "entries": {
+                "user_id": 814684792569200710,
+                "assigned_asset": {
+                    "asset_id": 522078971,
+                    "asset_name": "MesiSol #0",
+                    "asset_unit": "MSOL0",
+                    "asset_code": "0",
+                    "used_in_shuffle": true,
+                    "owned": true,
+                    "assigned": true
+                },
+                "sent": false
+            },
+            "active": false
+        }
+    }
+}
