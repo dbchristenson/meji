@@ -27,4 +27,7 @@ for users. It is the first of its kind all-purpose cryptocurrency and NFT manage
 * Static
   - The only files that static contains is formatted information about the NFT collections that Meji has been
     tasked with tracking (Mesiverse related NFT projects such as MesiSols).
+* Databases
+  - Contains lots of json stored data that allows Meji to properly track users inside the server so that it can
+    perform operations such as the instant shuffle.
 
